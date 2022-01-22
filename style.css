@@ -1,0 +1,16 @@
+body{
+  background: green url(https://clipart.world/wp-content/uploads/2020/10/Among-Us-clipart-8.png) repeat-y  ;
+  background-size: 100px;
+}
+
+@media only screen and (max-width:600px) {
+  body { 
+    background-color: blue;
+  }
+}
+
+  svg{
+    border: solid maroon 15px;
+    opacity: 0.5
+  }
+}
